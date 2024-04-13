@@ -48,3 +48,5 @@ if you’re looking to enhance it, here are a few suggestions:
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
+
+Check Out the <a href="https://rohanvron.github.io/ClickCounter/"> DEMO </a>
